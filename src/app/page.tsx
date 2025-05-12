@@ -143,8 +143,8 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600 mb-6 italic">
-                "WasiFlow has transformed how we handle customer inquiries. We now respond with quotes in seconds
-                instead of hours."
+                WasiFlow has transformed how we handle customer inquiries. We now respond with quotes in seconds
+                instead of hours.
               </p>
               <div className="flex items-center">
                 <div className="w-12 h-12 bg-gray-200 rounded-full mr-4"></div>
@@ -164,8 +164,8 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600 mb-6 italic">
-                "The automatic data entry into Google Sheets has eliminated errors and saved us countless hours of
-                manual work."
+                The automatic data entry into Google Sheets has eliminated errors and saved us countless hours of
+                manual work.
               </p>
               <div className="flex items-center">
                 <div className="w-12 h-12 bg-gray-200 rounded-full mr-4"></div>
@@ -185,8 +185,8 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600 mb-6 italic">
-                "Our customers are impressed by how quickly they receive professional quotes. It's given us a
-                competitive edge."
+                Our customers are impressed by how quickly they receive professional quotes. Its given us a
+                competitive edge.
               </p>
               <div className="flex items-center">
                 <div className="w-12 h-12 bg-gray-200 rounded-full mr-4"></div>
